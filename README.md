@@ -50,4 +50,13 @@ Built with **Python Flask** on the backend and a modern HTML/CSS frontend, the a
 ---
 
 
+## 🧑‍💻 Author
+
+ 👨‍💻 Abhay Pratap 
+ 🔐 Cybersecurity & Ethical Hacking Enthusiast
+ 🎓 Intern @ FutureIntern
+ 🌍 Passionate about building secure systems
+ ✉️ LinkedIn
+
+
 
