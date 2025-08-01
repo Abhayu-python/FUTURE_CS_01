@@ -56,7 +56,7 @@ Built with **Python Flask** on the backend and a modern HTML/CSS frontend, the a
  - 🔐 Cybersecurity & Ethical Hacking Enthusiast
  - 🎓 Intern @ FutureIntern
  - 🌍 Passionate about building secure systems
-  ✉️ [LinkedIn](https://www.linkedin.com/in/abhay-pratap-5aa231302/))
+ - ✉️ [LinkedIn](https://www.linkedin.com/in/abhay-pratap-5aa231302/))
 
 
 
